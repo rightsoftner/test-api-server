@@ -1,112 +1,6 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "John",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "2",
-      "name": "Jason",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "3",
-      "name": "Mikle",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "4",
-      "name": "Serg",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "5",
-      "name": "Smith",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "6",
-      "name": "Gabriel",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "7",
-      "name": "Greta",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "8",
-      "name": "Monica",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "9",
-      "name": "Joe",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "10",
-      "name": "Arnold",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "id": "11",
-      "name": "Silvester",
-      "description": "descr",
-      "avatrUrl": "https://joeschmoe.io/api/v1/random"
-    },
-    {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$HfnxUw0two6G5yiTOJBKt.BsG.U9vVJjhbCQ28pj/y5BdPq134Pz.",
-      "id": "xTRwy-O"
-    },
-    {
-      "email": "sdf@wer3",
-      "password": "$2a$10$GyATTUX13DAhvCwZHqAEheKJs88Nseym2LDLwlrxjMRoopCgta/d.",
-      "id": "MMgfdMc"
-    },
-    {
-      "email": "dsghajw@hfdk",
-      "password": "$2a$10$EbcQYj.c59.k.2FlhxaC.uWYMLJqJsnyshNMYLvWdSSzuG59NND1C",
-      "remember-me": false,
-      "id": "9HcceNC"
-    },
-    {
-      "email": "dsghajw@hfdk1",
-      "password": "$2a$10$9.bkmxI4waW2CTCi6K78g.Fo5bGhDylhu4NuxOjiKDMPsI3mm275m",
-      "remember-me": true,
-      "id": "dH41sra"
-    },
-    {
-      "email": "dqhw@jwkla",
-      "password": "$2a$10$cZq6wvrIOS6Dr/4Tc/0txee0RNmehAMyyzaBYXhwPO89DjGtU.Y0m",
-      "remember-me": true,
-      "id": "qB5EBU3"
-    },
-    {
-      "email": "bdnmer@d",
-      "password": "$2a$10$zFGXv9d54mcuM1IsC6I1HusVzWA2hcf52B0dddVXHyK9cW3JBw.Qa",
-      "remember-me": false,
-      "id": "yO24ysB"
-    },
-    {
-      "email": "asdas@fds",
-      "password": "$2a$10$.h9motVlLFYjLgscnK9Pn./q3uPaXEI4sqDOoeTZPdtacdCkU3UbC",
-      "remember-me": false,
-      "id": "yNdZKT4"
-    },
-    {
       "email": "mama@mia",
       "password": "$2a$10$J3AtN4edVD5clt8nOmed8eFfHdqYOmOqfcmcllRuLT/zTSES6bGo.",
       "remember-me": true,
@@ -126,8 +20,70 @@
   ],
   "clients": [
     {
+      "id": "1",
       "name": "John",
-      "surname": "Dow"
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "2",
+      "name": "Jason",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "3",
+      "name": "Mikle",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "4",
+      "name": "Serg",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "5",
+      "name": "Smith",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "6",
+      "name": "Gabriel",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "7",
+      "name": "Greta",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "8",
+      "name": "Monica",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "9",
+      "name": "Joe",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "10",
+      "name": "Arnold",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+    },
+    {
+      "id": "11",
+      "name": "Silvester",
+      "description": "descr",
+      "avatarUrl": "https://joeschmoe.io/api/v1/random"
     }
   ]
 }
