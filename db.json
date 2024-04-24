@@ -23,67 +23,67 @@
       "id": "1",
       "name": "John",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-1.png"
     },
     {
       "id": "2",
       "name": "Jason",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-2.png"
     },
     {
       "id": "3",
       "name": "Mikle",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-3.png"
     },
     {
       "id": "4",
       "name": "Serg",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-4.png"
     },
     {
       "id": "5",
       "name": "Smith",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-5.png"
     },
     {
       "id": "6",
       "name": "Gabriel",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-6.png"
     },
     {
       "id": "7",
       "name": "Greta",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-7.png"
     },
     {
       "id": "8",
       "name": "Monica",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-8.png"
     },
     {
       "id": "9",
       "name": "Joe",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-9.png"
     },
     {
       "id": "10",
       "name": "Arnold",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-3.png"
     },
     {
       "id": "11",
       "name": "Silvester",
       "description": "descr",
-      "avatarUrl": "https://joeschmoe.io/api/v1/random"
+      "avatarUrl": "http://localhost:3000/pic/avatar-2.png"
     }
   ]
 }
